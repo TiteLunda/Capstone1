@@ -356,6 +356,15 @@ a {
 .english {
   color: #ebebeb;
   text-decoration: none;
+  margin-right: 180px;
+}
+
+.bb2{
+  margin-right: 107px;
+}
+
+.text-center{
+  color: red;
 }
 
 .fb,
