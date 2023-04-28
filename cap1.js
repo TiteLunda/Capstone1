@@ -31,28 +31,28 @@ const speakerInfo = [
     name: 'James mwangi',
     post: 'James co-founded an Independent school in the Northern suburbs of <br>Melbourne',
     picture: './images/james.jpg',
-    text: 'James co-founded an Independent school in the Northern suburbs of Melbourne. Having spent the last 15 years in school leadership, she has dedicated her efforts to exploring how students can become the best versions of themselves.',
+    text: 'James co-founded an Independent school in the Northern suburbs of Melbourne. Having spent the last 15 years in school leadership, has dedicated efforts to students.',
   },
   {
     id: 'Shyam',
     name: 'Shyam Barr',
     post: 'Dr Shyam Barr is an education consultant, coach and speaker',
     picture: './images/Shyam.png',
-    text: 'Dr Shyam Barr is an education consultant, coach and speaker, helping educators foster students’ metacognition and self-regulated learning (SRL). He is a co-host of the podcast Educate to Self-Regulate and a TEDx Speaker (TEDx Canberra’s 2022 event – Impact)',
+    text: 'Dr Shyam Barr is an education consultant, coach and speaker, helping educators foster students’ metacognition and self-regulated learning (SRL).',
   },
   {
     id: 'Steve',
     name: 'Steve Brophy',
     post: ' Director of Digital Transformation at Ivanhoe Grammar School',
     picture: './images/Steve.png',
-    text: 'Steve Brophy is a dedicated and experienced leader in the field of education. With a passion for human-centred learning and a deep understanding of the potential for technology to drive positive change.',
+    text: 'Steve Brophy is a dedicated and experienced leader in the field of education. With a passion for human-centred learning .',
   },
   {
     id: 'Sam',
     name: 'Sam Cobb',
     post: 'Works at the Alannah and Madeline Foundation as an eSmart Advisor <br>in the Policy and Prevention team',
     picture: './images/Sam.png',
-    text: 'Sam has always been people-focused, having spent a decade in stakeholder engagement roles within universities, developing relationships with industry, education partners and schools through Australia and South-East Asia.',
+    text: 'Sam has always been people-focused, having spent a decade in stakeholder engagement roles within universities, developing relationships with industry.',
   },
 ];
 
