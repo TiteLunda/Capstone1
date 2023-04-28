@@ -26,6 +26,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+-[ Project Documentation](#project-documentation)
 - [📝 License](#license)
 
 # 📖 [My-Portfolio-site] <a name="about-project"></a>
@@ -191,6 +192,10 @@ I would like to thank Microverse for this project and all my partner for their c
 I would also like to thank Cindy Shin in Behance who created the original design!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Documentation  <a name="Project Documentation"></a>
+
+Videos Explaining the project: [Video](https://www.loom.com/share/b657b77a395b4023a835a932b22f1cdb)
 
 ## 📝 License <a name="license"></a>
 
