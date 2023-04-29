@@ -205,7 +205,7 @@ a {
 }
 
 .speaker-data {
-  font-size: 10px;
+  font-size: 12px;
   width: 95%;
 }
 
@@ -368,7 +368,21 @@ a {
 }
 
 .text-center {
-  color: red;
+  color: black;
+}
+
+.tec {
+  color: white;
+}
+
+.home-link {
+  text-decoration: none;
+  color: #3e3e3e;
+}
+
+.home-link1 {
+  text-decoration: none;
+  color: #ec5242;
 }
 
 .fb,
@@ -651,9 +665,10 @@ a {
   .speaker-x {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0;
+    gap: 60px;
     margin-left: 2.5rem;
     margin-right: 2.5rem;
+    margin-bottom: 80px;
   }
 
   .sara {
@@ -683,7 +698,7 @@ a {
   .speaker-info {
     width: 50%;
     margin-top: -115px;
-    margin-left: 45%;
+    margin-left: 40%;
   }
 
   .past-1,
@@ -732,7 +747,7 @@ a {
   }
 
   .speaker-data {
-    font-size: 20px;
+    font-size: 12px;
     width: 100%;
   }
 
