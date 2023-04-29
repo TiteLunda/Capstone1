@@ -195,7 +195,7 @@ I would also like to thank Cindy Shin in Behance who created the original design
 
 ## Project Documentation  <a name="Project Documentation"></a>
 
-Videos Explaining the project: [Video](hhttps://www.loom.com/share/84b98b4e34204d5f907ed82ae88caa39)
+Videos Explaining the project: [Video](https://www.loom.com/share/84b98b4e34204d5f907ed82ae88caa39)
 
 ## 📝 License <a name="license"></a>
 
